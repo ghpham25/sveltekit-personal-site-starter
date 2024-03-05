@@ -3,10 +3,10 @@
 // feel free to remove this file.
 
 // URL of your website
-export const website = 'https://jranand.info/'
+export const website = 'https://giangpham.info/'
 
-export const firstName = 'Your Name'
-export const lastName = ''
+export const firstName = 'Giang'
+export const lastName = 'Pham'
 export const name = `${firstName} ${lastName}`
 
 // Used for the landing page & footer of posts
@@ -18,9 +18,9 @@ As a seasoned tech entrepreneur and front-end developer, I bring over a decade o
 // Your social usernames, empty strings won't be used.
 // For sake of the live demo, I'm using `username/repo` for github,
 // but you can replace with just your username.
-export const github = ''
+export const github = 'ghpham25'
 export const twitter = 'jranandj'
-export const linkedin = 'https://www.linkedin.com/in/jranand/'
+export const linkedin = '/in/giang-pham-17925222b/'
 export const instagram = ''
 export const resume = 'resume.pdf';
 export const navMenu = [
